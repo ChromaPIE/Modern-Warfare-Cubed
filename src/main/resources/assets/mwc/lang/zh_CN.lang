@@ -1,10 +1,25 @@
-item.m40gasmask_helmet.name=M40防毒面具
-item.JPNVG18_helmet.name=GPNVG-18夜视头盔
+config.category.rendering.name=画面渲染设定
+config.category.screenshaders.name=屏幕着色器设定
+config.category.gameplay.name=游戏习惯设定
+config.rendering.enableAllShaders.property.name=全局着色器
+config.rendering.enableScreenShaders.property.name=屏幕着色器
+config.rendering.enableWorldShaders.property.name=世界着色器
+config.rendering.enableGunShaders.property.name=武器着色器
+config.rendering.enableFlashShaders.property.name=枪口火光着色器
+config.rendering.enableReticleShaders.property.name=光掩膜着色器(不确定)
+config.rendering.enableHDRFramebuffer.property.name=HDR帧缓冲区
+config.rendering.enableScopeEffects.property.name=瞄准镜效果
+config.rendering.enableFancyRainAndSnow.property.name=Fancy Rain And Snow
+config.rendering.screenshaders.bloomEffect.property.name=泛光
+config.rendering.screenshaders.filmGrain.property.name=胶片颗粒
+config.rendering.screenshaders.filmGrainIntensity.property.name=胶片颗粒强度
+config.rendering.screenshaders.bloomLayers.property.name=泛光层数量
+config.rendering.screenshaders.onScreenRainAndSnow.property.name=雨&雪屏幕残留
 
-item.audis4.name=奥迪S4
-item.mclaren_senna.name=迈凯伦塞纳
-item.ae86trueno.name=丰田AE86 Trueno
-item.atv_polaris_sportsman_850_2019.name=北极星运动家850 2019款
+config.gameplay.enableAmmoCounter.property.name=子弹计数器
+config.gameplay.enableAmmoCounterBackground.property.name=子弹计数器背景
+config.gameplay.enableOpenDoorDisplay.property.name=开门提示
+config.gameplay.holdToAim.property.name=按住瞄准
 
 entity.terrorist.name=恐怖分子
 entity.zombieBlistered.name=脓疱僵尸
@@ -17,6 +32,14 @@ entity.hazmat_zombie.name=防护服僵尸
 entity.Defiled Zombie.name=污渎僵尸
 entity.deathclaw.name=死亡爪
 entity.molded.name=菌兽
+
+item.m40gasmask_helmet.name=M40防毒面具
+item.JPNVG18_helmet.name=GPNVG-18夜视头盔
+
+item.audis4.name=奥迪S4
+item.mclaren_senna.name=迈凯伦塞纳
+item.ae86trueno.name=丰田AE86 Trueno
+item.atv_polaris_sportsman_850_2019.name=北极星运动家850 2019款
 
 item.mwc_gas-detector.name=毒气检测仪
 item.mwc_GasGrenade.name=毒气弹
